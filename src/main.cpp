@@ -14,3 +14,8 @@ int FLUI()
 std::cout << "Hello World" << std::endl;
 return 0;
 }
+int PLUI()
+{
+std::cout << "Hello World" << std::endl;
+return 0;
+}
