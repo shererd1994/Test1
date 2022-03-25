@@ -9,7 +9,7 @@ int UI()
 std::cout << "Hello World" << std::endl;
 return 0;
 }
-int GUI()
+int FLUI()
 {
 std::cout << "Hello World" << std::endl;
 return 0;
